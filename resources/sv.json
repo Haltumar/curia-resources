@@ -1901,8 +1901,11 @@
     "plaintiff": "Kärande",
     "defendant": "Svarande",
     "injured": "Målsägande",
+    "party": "Part",
     "witness": "Vittne",
     "expert": "Sakkunnig"
+    "appealant": "Ändringssökande"
+    "adversary": "Motpart"
   },
   "officerPositions": {
     "presiding": "Ordförande",
