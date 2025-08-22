@@ -1957,6 +1957,7 @@
   },
   "prosecutorTitles": {
     "prosecutor": "Distriktsåklagare",
+    "assistantProsecutor": "Biträdande åklagare",
     "specialProsecutor": "Specialiståklagare",
     "provincialProsecutor": "Landskapsåklagare",
     "stateProsecutor": "Statsåklagare",
