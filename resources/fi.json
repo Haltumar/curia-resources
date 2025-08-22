@@ -1957,6 +1957,7 @@
   },
   "prosecutorTitles": {
     "prosecutor": "Aluesyyttäjä",
+    "assistantProsecutor": "Apulaissyyttäjä",
     "provincialProsecutor": "Maakunnansyyttäjä",
     "specialProsecutor": "Erikoissyyttäjä",
     "stateProsecutor": "Valtionsyyttäjä",
